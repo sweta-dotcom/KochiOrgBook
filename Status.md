@@ -5,7 +5,7 @@
 
 **TOPICS COVERED**
 * Basics of :
-   * Hyperedger Indy 
+   * Hyperledger Indy 
    * Hyperledger Aries
    * Von Network
    * Orgbook
