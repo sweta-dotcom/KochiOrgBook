@@ -12,7 +12,7 @@
  * Verifiable Credential
  * SSI(Self Soverign Identifiers)
  * Identifiers:
-      * Centralized
+      * Centralized 
       * Decentralized
          * Public DIDs
          * Private DIDs
